@@ -4,9 +4,9 @@ Selfish Salesman is a python wrapper for a collection of third-party APIs design
 
 # Install
 
-'''
+```
 pip install selfish-salesman
-'''
+```
 
 # How it works
 

@@ -1,0 +1,10 @@
+setup.py
+selfish_salesman/Router.py
+selfish_salesman/__init__.py
+selfish_salesman/test_router.py
+selfish_salesman.egg-info/PKG-INFO
+selfish_salesman.egg-info/SOURCES.txt
+selfish_salesman.egg-info/dependency_links.txt
+selfish_salesman.egg-info/not-zip-safe
+selfish_salesman.egg-info/requires.txt
+selfish_salesman.egg-info/top_level.txt
